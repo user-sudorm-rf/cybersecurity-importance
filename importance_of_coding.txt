@@ -2,3 +2,4 @@ Why Coding is Important for Cybersecurity:
 - Automating security tasks with scripts and programs.
 - Developing secure applications to reduce vulnerabilites.
 - Writing and analyzing malware code to understand threats.
+- Writing secure code helps in defending against injection attacks.
