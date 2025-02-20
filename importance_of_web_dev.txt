@@ -1,0 +1,1 @@
+Why Web Development is Important for Cybersecurity: - Securing web applications from attacks like XSS and SQL injection - Understanding the security aspects of modern web frameworks. - Ensuring secure development practices to prevent breaches.
